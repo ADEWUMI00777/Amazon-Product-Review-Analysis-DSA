@@ -1,6 +1,6 @@
 # 🛍️ Amazon Product Review Analysis (DSA Project)
 
-This repository contains a comprehensive product review analysis project completed as part of my training with the **Data Skillup Africa (DSA) Data Analysis Program**. The analysis was conducted using a dataset scraped from Amazon product pages. The goal was to generate actionable insights for product improvement, marketing strategies, and enhanced customer engagement.
+This repository contains a comprehensive product review analysis project completed as part of my training with the **Digital Skillup Africa (DSA) Data Analysis Program The Incubattor Hub**. The analysis was conducted using a dataset scraped from Amazon product pages. The goal was to generate actionable insights for product improvement, marketing strategies, and enhanced customer engagement.
 
 ## 🏢 Company Background
 
@@ -70,7 +70,6 @@ A clean and interactive **Excel Dashboard** was created to visualize:
 | Tool | Purpose |
 |------|---------|
 | Microsoft Excel | Data cleaning, Pivot Tables, Formulas |
-| Power BI | Visualization (optional) |
 | Data Analysis Techniques | Categorization, Bucketing, Aggregation, Ranking |
 
 ---
@@ -88,7 +87,7 @@ A clean and interactive **Excel Dashboard** was created to visualize:
 
 ## 🎯 Project Context
 
-This project was completed as a capstone for the **Data Skillup Africa (DSA) Data Analysis Training Program**. It demonstrates my understanding of data cleaning, pivot analysis, and dashboard creation using real-world e-commerce data.
+This project was completed as a capstone for the **Digital Skillup Africa (DSA) Data Analysis Training Program The Incubattor Hub**. It demonstrates my understanding of data cleaning, pivot analysis, and dashboard creation using real-world e-commerce data.
 
 ---
 
